@@ -5,7 +5,7 @@ import { FaXTwitter } from "react-icons/fa6";
 const SocialMedia = () => {
   return (
     <ul className="flex items-center gap-6">
-      <li className="text-white">
+      <li className="text-white transition-colors duration-500 hover:text-primary_1">
         <Link
           href="https://portfolio-vladdev.vercel.app"
           aria-label="Go to our profile of Instagram"
@@ -13,7 +13,7 @@ const SocialMedia = () => {
           <FaInstagram className="w-5 h-5" />
         </Link>
       </li>
-      <li className="text-white">
+      <li className="text-white transition-colors duration-500 hover:text-primary_1">
         <Link
           href="https://portfolio-vladdev.vercel.app"
           aria-label="Go to our profile of Facebook"
@@ -21,7 +21,7 @@ const SocialMedia = () => {
           <FaFacebook className="w-5 h-5" />
         </Link>
       </li>
-      <li className="text-white">
+      <li className="text-white transition-colors duration-500 hover:text-primary_1">
         <Link
           href="https://portfolio-vladdev.vercel.app"
           aria-label="Go to our profile of XTwitter"
@@ -29,7 +29,7 @@ const SocialMedia = () => {
           <FaXTwitter className="w-5 h-5" />
         </Link>
       </li>
-      <li className="text-white">
+      <li className="text-white transition-colors duration-500 hover:text-primary_1">
         <Link
           href="https://portfolio-vladdev.vercel.app"
           aria-label="Go to our profile of LinkedIn"

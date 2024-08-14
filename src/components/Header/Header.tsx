@@ -14,7 +14,7 @@ const Header = () => {
         </div>
       </div>
       <div className="bg-header_menu h-[78px]">
-        <div className="max-w-[1200px] h-full mx-auto flex items-center justify-between">
+        <div className="max-w-[1200px] h-full mx-auto flex items-end justify-between">
           <Menu />
           <div className="flex items-center gap-[50px] h-full">
             <SocialMedia />

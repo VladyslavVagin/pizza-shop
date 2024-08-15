@@ -4,9 +4,9 @@ import Button from "@/components/Common/Button/Button";
 
 const Hero = () => {
   return (
-    <section className="bg-hero-pattern bg-no-repeat bg-contain min-h-[875px] mt-[-78px]">
+    <section className="bg-hero-pattern bg-no-repeat bg-contain w-full mt-[-78px] pb-40">
       <div className="max-w-[1200px] mx-auto pt-[173px] flex flex-col items-start gap-2">
-        <Subtitle>Logistics & Supply Chain Solutions</Subtitle>
+        <Subtitle className="text-white">Logistics & Supply Chain Solutions</Subtitle>
         <MainTitle>Your Gateway to any Destination in the World</MainTitle>
         <p className="text-white max-w-[571px] text-base font-medium">
           In augue ligula, feugiat ut nulla consequat. Ut est lacus, molestie in

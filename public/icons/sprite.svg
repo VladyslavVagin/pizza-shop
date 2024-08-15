@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
+  <defs>
+    <symbol id="icon-truck" viewBox="0 0 32 32">
+      <path fill="#ffd550" stroke="#000" stroke-width="1.032" d="M21.714 14.857V9.714h2.889c1.463 0 2.782.882 3.34 2.235l1.053 2.552a.259.259 0 0 1-.239.357h-7.043z" style="fill:var(--color1, #ffd550)"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.032" d="M2.286 18.286h19.429M23.429 27.429a3.429 3.429 0 1 0 0-6.857 3.429 3.429 0 0 0 0 6.857z"/>
+      <path fill="#ffd550" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.032" d="M8.571 27.429a3.429 3.429 0 1 0 0-6.857 3.429 3.429 0 0 0 0 6.857z" style="fill:var(--color1, #ffd550)"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.032" d="M20 23.428h-8M5.114 23.428H3.257c-.258 0-.505-.105-.687-.293s-.285-.442-.285-.707v-14c0-.265.102-.52.285-.707s.429-.293.687-.293h18.457v13.4"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.032" d="M21.714 14.857h8v7.619c0 .253-.105.495-.293.673s-.442.279-.707.279h-1.929M4.572 14.501V9.715M14.857 16h4.786M14.857 25.659h1.714"/>
+    </symbol>
+    <symbol id="icon-buildings" viewBox="0 0 40 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.391" d="M1.624 31.304h36.439M22.758 31.304V2.026c0-.353-.143-.691-.396-.941s-.598-.39-.957-.39H5.164c-.359 0-.703.14-.957.39s-.396.588-.396.941v29.278"/>
+      <path fill="#ffd550" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.391" d="M22.758 9.441h11.031c1.153 0 2.087.934 2.087 2.087v19.048H22.758V9.441z" style="fill:var(--color1, #ffd550)"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.391" d="M9.64 7.255h5.101M.895 28.389V18.186M38.791 21.101V10.898M24.944 6.526h5.101M11.826 18.186h5.101M9.64 24.745h5.101M27.859 24.745h2.915M27.859 18.186h2.915"/>
+    </symbol>
+    <symbol id="icon-plane" viewBox="0 0 37 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width=".97" d="M8.39 26.877h17.391M16.646 19.625l7.526-4.531M4.701 18.37l2.916 2.916M.485 17.316l2.916 2.916M7.645 17.185l4.585 4.399a3.817 3.817 0 0 0 4.622.536l18.415-10.965-2.262-2.841c-.588-.736-1.415-1.233-2.329-1.4s-1.857.007-2.658.49l-5.4 3.252-7.298-2.492-2.007.885c-.15.066-.282.169-.382.301a1.01 1.01 0 0 0 .115 1.355l3.734 3.439-3.406 1.994-3.406-1.495-2.043.897c-.149.065-.279.168-.379.298a1.016 1.016 0 0 0 .1 1.347z"/>
+      <path fill="#ffd550" stroke="#000" stroke-width=".97" d="M33.423 8.959c-2.924 2.296-5.81 2.585-7.905 0l1.646-1.07a4.68 4.68 0 0 1 6.259 1.07z" style="fill:var(--color1, #ffd550)"/>
+    </symbol>
+    <symbol id="icon-ship" viewBox="0 0 30 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.143" d="M14.663 4.094V.571M28.754 20.534c-2.143 7.486-12.066 10.099-13.827 10.51a1.072 1.072 0 0 1-.528 0C12.638 30.633 2.715 28.02.572 20.534v-5.02a1.172 1.172 0 0 1 .807-1.115l12.917-4.315c.239-.074.495-.074.734 0l12.917 4.315a1.173 1.173 0 0 1 .807 1.115v5.02z"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.143" d="M14.93 27.237c-1.394-.321-9.244-2.361-10.94-8.205"/>
+      <path fill="#ffd550" stroke="#000" stroke-width="1.143" d="M3.99 5.704v7.516l10.598-3.761 10.598 3.761V5.704c0-.947-.767-1.714-1.714-1.714H5.705c-.947 0-1.714.768-1.714 1.714z" style="fill:var(--color1, #ffd550)"/>
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.143" d="M14.663 21.708V10.024M17.665 21.084v-4.786M6.725 10.144V6.725M27.921 11.511V5.357"/>
+    </symbol>
+  </defs>
+</svg>

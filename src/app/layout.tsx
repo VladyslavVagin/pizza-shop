@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import { Rubik, Krub, League_Spartan } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header/Header";
@@ -24,11 +23,6 @@ export const league_spartan = League_Spartan({
   variable: "--font-league_spartan",
 });
 
-export const metadata: Metadata = {
-  title: "Transit Flow",
-  description: "Transit Flow is a web site of logistics company Transit Flow",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -36,6 +30,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta charSet="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Transport Flow is a logistics company." />
+        <title>Transport Flow</title>
+      </head>
       <body className={krub.className}>
         <Header />
         <main>{children}</main>

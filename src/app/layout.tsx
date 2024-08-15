@@ -34,7 +34,7 @@ export default function RootLayout({
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="Transport Flow is a logistics company." />
-        <title>Transport Flow</title>
+        <title>TransitFlow - logistics with high quality</title>
       </head>
       <body className={krub.className}>
         <Header />

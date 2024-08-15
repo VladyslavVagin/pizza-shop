@@ -23,6 +23,7 @@ const config: Config = {
       backgroundImage: {
         "hero-pattern": "url('/images/hero.webp')",
         "accent-gradient": "linear-gradient(127deg, #ffb629 0%, #ffda56 50%, #ffd7a6 100%)",
+        "card-gradient": "linear-gradient(0deg, #091242 0%, rgba(60, 60, 60, 0) 100%)",
         "weprovide-pattern": "url('/images/background.webp')",
       },
       fontSize: {

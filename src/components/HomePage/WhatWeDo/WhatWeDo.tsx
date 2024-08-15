@@ -7,7 +7,7 @@ const WhatWeDo = () => {
     <div className="pt-24 pb-[121px]">
       <div className="max-w-[1200px] mx-auto flex items-start justify-between">
         <div>
-          <Subtitle className="text-black mb-4 bg-subtitle_background max-w-24">What We Do</Subtitle>
+          <Subtitle className="text-black mb-4 bg-subtitle_background">What We Do</Subtitle>
           <Title>Safe & Reliable Cargo Solutions</Title>
         </div>
         <ListJobs />

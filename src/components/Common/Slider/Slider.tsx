@@ -14,8 +14,8 @@ type Props = {
 const Slider: FC<Props> = ({ children, className }) => {
   return (
     <Swiper
-      spaceBetween={16}
-      slidesPerView={4}
+      spaceBetween={12}
+      slidesPerView={5}
       autoplay={{
         delay: 5000,
         stopOnLastSlide: false,

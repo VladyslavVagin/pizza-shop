@@ -8,7 +8,7 @@ type Props = {
 const Icon: FC<Props> = ({ className, name }) => {
   return (
     <svg className={`${className}`}>
-      <use xlinkHref={`/images/icons/sprite.svg#${name}`} />
+      <use xlinkHref={`/icons/sprite.svg#${name}`} />
     </svg>
   );
 };

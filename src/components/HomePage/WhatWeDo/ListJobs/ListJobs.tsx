@@ -1,11 +1,12 @@
-import Icon from "@/components/Common/Icon/Icon";
+import { jobs } from "@/data/jobs";
+import CardService from "../CardService/CardService";
 
 const ListJobs = () => {
   return (
-    <ul>
-      <li>
-        <Icon name="icon-ship" className="w-[50px] h-[54px]" />
-      </li>
+    <ul className="flex flex-wrap items-center justify-center gap-20 max-w-[880px]">
+      {jobs.map((service) => (
+        <CardService key={service.id} service={service} />
+      ))}
     </ul>
   );
 };

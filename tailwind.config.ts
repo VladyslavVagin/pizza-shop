@@ -18,10 +18,12 @@ const config: Config = {
         iconBlue: "#111c55",
         header_menu: "rgba(9, 18, 66, 0.25)",
         subtitle_back: "rgba(4, 28, 55, 0.5)",
+        subtitle_background: "rgba(232, 232, 232, 0.5)"
       },
       backgroundImage: {
         "hero-pattern": "url('/images/hero.webp')",
-        "accent-gradient": "linear-gradient(127deg, #ffb629 0%, #ffda56 50%, #ffd7a6 100%)"
+        "accent-gradient": "linear-gradient(127deg, #ffb629 0%, #ffda56 50%, #ffd7a6 100%)",
+        "weprovide-pattern": "url('/images/background.webp')",
       },
       fontSize: {
         titleMain: ["60px", "72px"],

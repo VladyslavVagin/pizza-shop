@@ -5,7 +5,7 @@ import { BsTelephone } from "react-icons/bs";
 
 const InfoList = () => {
   return (
-    <ul className="flex items-center gap-[39px]">
+    <ul className="flex flex-wrap items-center gap-[39px]">
       <li className="flex items-center gap-4">
         <div className="w-[63px] h-[63px] bg-iconBlue rounded-full border border-borderIcon flex items-center justify-center">
           <GoClock className="w-6 h-6 fill-yellow-500" />

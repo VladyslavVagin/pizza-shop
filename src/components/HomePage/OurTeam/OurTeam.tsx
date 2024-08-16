@@ -5,9 +5,9 @@ import TeamList from "./TeamList/TeamList";
 const OurTeam = () => {
   return (
     <section className="w-full py-[102px]">
-      <div className="max-w-[1200px] mx-auto text-center">
+      <div className="max-w-[1200px] mx-auto">
         <Subtitle className="mx-auto w-32 mb-4 bg-subtitle_background text-black">The Transporters</Subtitle>
-        <Title className="w-full">Meet Expert Team</Title>
+        <Title className="w-full text-center">Meet Expert Team</Title>
         <TeamList />
       </div>
     </section>

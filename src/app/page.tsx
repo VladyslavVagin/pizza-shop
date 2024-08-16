@@ -5,6 +5,7 @@ import TransportingAcross from "@/components/HomePage/TransportingAcross/Transpo
 import Testimonial from "@/components/HomePage/Testimonial/Testimonial";
 import Opportunity from "@/components/HomePage/Opportunity/Opportunity";
 import OurTeam from "@/components/HomePage/OurTeam/OurTeam";
+import GetInTouch from "@/components/HomePage/GetInTouch/GetInTouch";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Testimonial />
       <Opportunity />
       <OurTeam />
+      <GetInTouch />
     </>
   );
 }

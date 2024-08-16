@@ -10,7 +10,7 @@ import Review from "./Review/Review";
 const Testimonial = () => {
   return (
     <section className="pt-[400px] pb-[102px]">
-      <div className="max-w-[1200px] mx-auto">
+      <div className="max-w-[1200px] mx-auto relative">
         <Subtitle className="text-black mb-4 bg-subtitle_background">
           Testimonial
         </Subtitle>

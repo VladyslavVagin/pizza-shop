@@ -29,5 +29,12 @@
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width=".4" d="M14.01 8.15c.613 0 1.11-1.193 1.11-2.665s-.497-2.665-1.11-2.665c-.613 0-1.11 1.193-1.11 2.665s.497 2.665 1.11 2.665zM17.605 18.955l4.567-2.765M16.858 19.352l-2.066 1.193M3.808 18.797l3.086 2.893a2.617 2.617 0 0 0 3.111.353L22.4 14.83l-1.523-1.869a2.622 2.622 0 0 0-3.357-.599l-3.635 2.139-4.912-1.639-1.351.582c-.101.043-.19.111-.257.198s-.113.189-.131.298a.66.66 0 0 0 .208.595l2.513 2.262-2.292 1.311-2.292-.984-1.375.59a.646.646 0 0 0-.386.49.66.66 0 0 0 .198.592zM9.099 21.063l4.567-2.765M21.405 28.136v-2.664a.22.22 0 0 0-.111-.189l-2.382-1.337a.218.218 0 0 0-.212 0l-2.382 1.337a.222.222 0 0 0-.111.189v2.664a.22.22 0 0 0 .111.189l2.382 1.337a.215.215 0 0 0 .212 0l2.382-1.337a.222.222 0 0 0 .111-.189z"/>
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width=".4" d="m21.405 25.36-2.574 1.443-2.623-1.443M18.807 26.804v2.887"/>
     </symbol>
+     <symbol id="icon-calendar" viewBox="0 0 29 32">
+      <path fill="none" stroke="#1c1f35" stroke-linecap="round" stroke-linejoin="round" stroke-width=".552" d="M6.069 15.448h3.31v3.31h-3.31v-3.31zM6.069 22.621h3.31v3.31h-3.31v-3.31zM13.241 15.448h3.31v3.31h-3.31v-3.31zM13.241 22.621h3.31v3.31h-3.31v-3.31z" style="stroke:var(--color1, #1c1f35)"/>
+      <path fill="#ffd550" stroke="#1c1f35" stroke-linecap="round" stroke-linejoin="round" stroke-width=".552" d="M19.862 15.448h3.31v3.31h-3.31v-3.31z" style="fill:var(--color2, #ffd550);stroke:var(--color1, #1c1f35)"/>
+      <path fill="none" stroke="#1c1f35" stroke-linecap="round" stroke-linejoin="round" stroke-width=".552" d="M19.862 22.621h3.31v3.31h-3.31v-3.31z" style="stroke:var(--color1, #1c1f35)"/>
+      <path fill="#ffd550" d="M28.69 11.034H.552V4.965c0-.914.741-1.655 1.655-1.655h24.828c.914 0 1.655.741 1.655 1.655v6.069z" style="fill:var(--color2, #ffd550)"/>
+      <path fill="none" stroke="#1c1f35" stroke-linecap="round" stroke-linejoin="round" stroke-width=".552" d="M27.586 3.127H1.839c-.711 0-1.287.576-1.287 1.287v25.747c0 .711.576 1.287 1.287 1.287h25.747c.711 0 1.287-.576 1.287-1.287V4.414c0-.711-.576-1.287-1.287-1.287zM22.437.552v5.149M6.989.552v5.149M.552 10.851h28.322" style="stroke:var(--color1, #1c1f35)"/>
+    </symbol>
   </defs>
 </svg>

@@ -6,6 +6,7 @@ import Testimonial from "@/components/HomePage/Testimonial/Testimonial";
 import Opportunity from "@/components/HomePage/Opportunity/Opportunity";
 import OurTeam from "@/components/HomePage/OurTeam/OurTeam";
 import GetInTouch from "@/components/HomePage/GetInTouch/GetInTouch";
+import Blogs from "@/components/HomePage/Blogs/Blogs";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <Opportunity />
       <OurTeam />
       <GetInTouch />
+      <Blogs />
     </>
   );
 }

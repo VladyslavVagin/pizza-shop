@@ -19,6 +19,7 @@ const config: Config = {
         header_menu: "rgba(9, 18, 66, 0.25)",
         subtitle_back: "rgba(4, 28, 55, 0.5)",
         subtitle_background: "rgba(232, 232, 232, 0.5)",
+        footer_bg: "rgba(255, 255, 255, 0.08)",
         input_border: "#4e5683"
       },
       backgroundImage: {
@@ -26,6 +27,7 @@ const config: Config = {
         "accent-gradient": "linear-gradient(127deg, #ffb629 0%, #ffda56 50%, #ffd7a6 100%)",
         "card-gradient": "linear-gradient(0deg, #091242 0%, rgba(60, 60, 60, 0) 100%)",
         "weprovide-pattern": "url('/images/background.webp')",
+        "homepage-pattern": "url('/images/homepage/container-terminal.webp')",
       },
       fontSize: {
         titleMain: ["60px", "72px"],

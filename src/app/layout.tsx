@@ -1,6 +1,7 @@
 import { Rubik, Krub, League_Spartan } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header/Header";
+import Footer from "@/components/Footer/Footer";
 
 const krub = Krub({
   subsets: ["latin"],
@@ -39,6 +40,7 @@ export default function RootLayout({
       <body className={krub.className}>
         <Header />
         <main>{children}</main>
+        <Footer />
       </body>
     </html>
   );

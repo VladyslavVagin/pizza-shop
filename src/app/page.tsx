@@ -20,6 +20,7 @@ export default function Home() {
       <OurTeam />
       <GetInTouch />
       <Blogs />
+      <div className="w-full h-[412px] bg-homepage-pattern bg-no-repeat bg-cover"></div>
     </>
   );
 }

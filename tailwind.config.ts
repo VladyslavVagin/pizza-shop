@@ -18,7 +18,8 @@ const config: Config = {
         iconBlue: "#111c55",
         header_menu: "rgba(9, 18, 66, 0.25)",
         subtitle_back: "rgba(4, 28, 55, 0.5)",
-        subtitle_background: "rgba(232, 232, 232, 0.5)"
+        subtitle_background: "rgba(232, 232, 232, 0.5)",
+        input_border: "#4e5683"
       },
       backgroundImage: {
         "hero-pattern": "url('/images/hero.webp')",

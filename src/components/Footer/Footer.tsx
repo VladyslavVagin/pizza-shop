@@ -1,5 +1,8 @@
 import Logo from "../Header/Logo/Logo";
 import InfoList from "../Header/InfoList/InfoList";
+import MenuFooter from "./MenuFooter/MenuFooter";
+import UtilityList from "./UtilityList/UtilityList";
+import Subscribe from "./Subscribe/Subscribe";
 import { rubik } from "@/app/layout";
 
 const Footer = () => {
@@ -29,8 +32,13 @@ const Footer = () => {
       </div>
 
       <div className="max-w-[1200px] mx-auto py-10">
-        <div className="max-w-[319px] flex flex-col items-center">
-          <InfoList />
+        <div className="max-w-[1200px] flex items-start pl-8 gap-8">
+          <div className="max-w-[310px]">
+            <InfoList />
+          </div>
+          <MenuFooter />
+          <UtilityList />
+          <Subscribe />
         </div>
       </div>
     </footer>
